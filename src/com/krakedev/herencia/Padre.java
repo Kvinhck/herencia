@@ -18,7 +18,7 @@ public class Padre {
 	}
 	
 	public String toString() {
-		return "Nombre: " + nombre + "Defectos: " + defectos + ", Virtudes: " + virtudes + ", Total Ahorrado: " + totalAhorrado;
+		return "Nombre: " + nombre + ", Defectos: " + defectos + ", Virtudes: " + virtudes + ", Total Ahorrado: " + totalAhorrado;
 	}
 	
 	

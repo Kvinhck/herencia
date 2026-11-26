@@ -6,7 +6,7 @@ public class TestHijo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Hijo hijo = new Hijo(2,4,9);
+		Hijo hijo = new Hijo("Pepe",2,4,9);
 		System.out.println(hijo);
 	}
 	
