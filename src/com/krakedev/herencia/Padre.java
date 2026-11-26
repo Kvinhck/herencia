@@ -15,7 +15,7 @@ public class Padre {
 	}
 	
 	public String toString() {
-		return "Defectos: " + defectos + " Virtudes: " + virtudes;
+		return "Defectos: " + defectos + ", Virtudes: " + virtudes;
 	}
 	
 	public int getDefectos() {

@@ -7,4 +7,11 @@ public class Hijo extends Padre {
 		super(virtudes,defectos);
 		this.juguetes = juguetes;
 	}
+	
+	@Override
+	
+	public String toString() {
+		return super.toString() + ", juguetes: " + juguetes;
+	}
+	
 }
