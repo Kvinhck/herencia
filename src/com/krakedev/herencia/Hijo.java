@@ -14,4 +14,8 @@ public class Hijo extends Padre {
 		return super.toString() + ", juguetes: " + juguetes;
 	}
 	
+	public void ahorrar(double monto){
+		super.ahorrar(monto/2);
+	}
+	
 }
