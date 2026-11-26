@@ -12,6 +12,6 @@ public class Hija  extends Padre{
 	}
 	
 	public String toString() {
-		return "Defecto: " + getDefectos() + " Virtudes: " + getVirtudes();
+		return super.toString();
 	}
 }
